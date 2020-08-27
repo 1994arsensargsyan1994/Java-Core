@@ -1,0 +1,26 @@
+#if
+if(if) operator;
+else operator;
+
+#switch
+switch(....){
+case const;
+break;
+//...
+}
+
+#for
+for(x=0;x < 10;x++);
+
+#while(....) operator;
+
+#do
+do{
+operator;
+}while(....);
+
+#break
+break; or break metka
+
+#continue
+continue;or  continue metka
